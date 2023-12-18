@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "657ebfbf6e3396778d656132"
+  },
+  "title": "Men's Polo T-Shirt",
+  "image": "https://images.unsplash.com/photo-1617952125960-38d76f3659d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "imageList": [
+    "https://images.unsplash.com/photo-1617952125960-38d76f3659d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1617952125960-38d76f3659d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1617952125960-38d76f3659d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1617952125960-38d76f3659d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "quantity": 100,
+  "price": 2999,
+  "discount": 10,
+  "description": "A classic men's polo t-shirt.",
+  "category": "men",
+  "rating": 2,
+  "subTitle": "Summer Collection",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-12-01T16:13:25.032Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T16:13:25.032Z"
+  }
+}]
